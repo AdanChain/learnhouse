@@ -43,8 +43,6 @@ Thank you for you interest 💖, here is how you can help :
 
 - [Getting Started](/CONTRIBUTING.md)
 - [Developers Quick start](https://docs.learnhouse.app/setup-dev-environment)
-- [Submit a bug report](https://github.com/learnhouse/learnhouse/issues/new?assignees=&labels=bug%2Ctriage&projects=&template=bug.yml&title=%5BBug%5D%3A+)
-- [Check good first issues & Help Wanted](https://github.com/learnhouse/learnhouse/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+label%3A%22help+wanted%22)
 - Spread the word and share the project with your friends
 
 ## Documentation
@@ -78,15 +76,6 @@ LearnHouse uses a number of open source projects to work properly:
 - **PostgreSQL** - SQL Database
 - **Redis** - In-Memory Database
 - **React** - duh
-
-## LearnHouse University
-
-<a href="https://university.learnhouse.io">
-<img width="208" alt="lh_univ" src="https://github.com/learnhouse/learnhouse/assets/29493708/72a892cd-7c5a-4437-9130-ff1682a10b24">
-</a>
-
-Learn about LearnHouse and how to use it, using LearnHouse
-
 
 ## A word
 
